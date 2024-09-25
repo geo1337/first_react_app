@@ -1,1 +1,1 @@
-### Thats an old project which aimed to create a quit smoking web application and on the other hand to get familar with react hooks and states.###
+### Thats an old project which aimed to create a quit smoking web application and on the other hand to get familar with react hooks and states.
